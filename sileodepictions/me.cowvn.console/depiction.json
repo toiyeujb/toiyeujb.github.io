@@ -35,25 +35,20 @@
 					"markdown": "## Darkify\nDarkify is a dark theme for all iOS devices that keeps all icons fimiliar looking but with a dark grey gradient and adds a bit more depth to the icons."
 				},
 				{
-					"title": "Suggest icons here!",
-					"action": "https://forms.gle/x38ZhSwcx3wreiUUA",
-					"class": "DepictionTableButtonView"
-				},
-				{
 					"class": "DepictionSeparatorView"
 				},
 				{
-					"title": "Latest Version",
+					"title": "Cập nhật cuối cùng",
 					"class": "DepictionHeaderView"
 				},
 				{
-					"title": "Version",
+					"title": "Phiên bản",
 					"text": "1.0",
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Released",
-					"text": "4/30/19",
+					"title": "Cập nhật lần cuối",
+					"text": "5/8/2020",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -62,12 +57,12 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Developer",
-					"text": "StrugglingDoge",
+					"title": "Tác giả",
+					"text": "Cowvn",
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Github",
+					"title": "Nguồn",
 					"action": "https://toiyeujb.github.io/",
 					"class": "DepictionTableButtonView"
 				},
