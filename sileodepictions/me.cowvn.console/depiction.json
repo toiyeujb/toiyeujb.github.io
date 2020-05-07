@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/gh-pages/assets/Banners/Darkify.png",
+	"headerImage": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/gh-pages/assets/Banners/toiyeujb.png",
 	"tintColor": "#3f4042",
 	"tabs": [
 		{
@@ -32,13 +32,13 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Darkify\nDarkify is a dark theme for all iOS devices that keeps all icons fimiliar looking but with a dark grey gradient and adds a bit more depth to the icons."
+					"markdown": "## Console\nConsole là một gói tài nguyên bổ sung cho Xen HTML."
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
-					"title": "Cập nhật cuối cùng",
+					"title": "Thoong tin",
 					"class": "DepictionHeaderView"
 				},
 				{
