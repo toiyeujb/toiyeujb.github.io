@@ -1,0 +1,16 @@
+Package: me.cowvn.console
+Version: 1.0
+Section: iWidget
+Maintainer: toiyeujb.github.io
+Architecture: iphoneos-arm
+Filename: ./debs/me.cowvn.console.deb
+Size: 71464
+MD5sum: 0568e6283c247bf5c16129796f2834c8
+SHA1: fdf2238089ee30da389d21610561d1068386893e
+SHA256: 0f5be464c230ef2369e1ed45a2347781eeac63be8e214018b7bd424287cff400
+Description: Tài nguyên cho Xen HTML
+Name: Console
+Author: Cowvn
+SileoDepiction: https://toiyeujb.github.io/sileodepictions/me.cowvn.console/depiction.json
+Depiction: https://toiyeujb.github.io/depictions/?p=me.cowvn.console
+Icon: https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/gh-pages/assets/TweakIcons/darkifyicon.png

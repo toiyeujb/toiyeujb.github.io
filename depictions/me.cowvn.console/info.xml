@@ -1,0 +1,24 @@
+<package>
+	<id>me.cowvn.console</id>
+	<name>Console (Widget)</name>
+	<version>1.0</version>
+	<compatibility>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<shortDescription>Gói tài nguyên cho Xen HTML gồm thời thiết, dung lượng pin, ngày giờ...</shortDescription>
+	<descriptionlist>
+		<description> Gói tài nguyên cho Xen HTML gồm thời thiết, dung lượng pin, ngày giờ... </description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Xem trước</description>
+			<image>s1.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Và một số chức năng khác</change>
+	</changelog>
+	<links>
+	</links>
+</package>
