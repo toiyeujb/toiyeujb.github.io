@@ -12,8 +12,8 @@
 					"screenshots": [
 						{
 							"accessibilityText": "Showcase",
-							"url": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/gh-pages/assets/gh-pages/depictions/me.cowvn.console/screenshots/1.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/gh-pages/assets/gh-pages/depictions/me.cowvn.console/screenshots/1.png"
+							"url": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/master/depictions/me.cowvn.console/screenshots/1.jpg",
+							"fullSizeURL": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/master/depictions/me.cowvn.console/screenshots/1.jpg"
 						}
 					],
 					"ipad": {
@@ -22,8 +22,8 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Showcase",
-								"url": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/gh-pages/depictions/com.struggling.darkify/screenshots/s1.png?size=640",
-								"fullSizeURL": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/gh-pages/depictions/com.struggling.darkify/screenshots/s1.png"
+								"url": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/master/depictions/me.cowvn.console/screenshots/1.jpg?size=640",
+								"fullSizeURL": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/master/depictions/me.cowvn.console/screenshots/1.jpg"
 							}
 						],
 						"class": "DepictionScreenshotView"
