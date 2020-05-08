@@ -24,7 +24,7 @@ Size: 1683504
 MD5sum: e03c7c2da66a4f86cbc0943876b1ad8a
 SHA1: eb2538135dc6b05bfaaa91365fe0c2a40a5bdcfa
 SHA256: 3a56ba2ecb2648209812cc3e556fe09ea40fabc11dc61569611eaf661abd1dde
-Description: Tài nguyên cho Xen HTML
+Description: Tuỳ chỉnh giao diện của bạn dể dàng với các gói tài nguyên có sẵng
 Name: Console
 Author: Cowvn
 SileoDepiction: https://toiyeujb.github.io/sileodepictions/com.matchstic.xenhtml.deb/depiction.json
