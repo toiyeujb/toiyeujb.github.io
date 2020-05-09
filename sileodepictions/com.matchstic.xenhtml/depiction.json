@@ -12,8 +12,8 @@
 					"screenshots": [
 						{
 							"accessibilityText": "Xem thêm",
-							"url": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/master/depictions/me.cowvn.console/screenshots/1.jpg",
-							"fullSizeURL": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/master/depictions/me.cowvn.console/screenshots/1.jpg"
+							"url": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/master/depictions/com.matchstic.xenhtml/screenshots/1.jpg",
+							"fullSizeURL": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/master/depictions/com.matchstic.xenhtml/screenshots/1.jpg"
 						}
 					],
 					"ipad": {
@@ -22,8 +22,8 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Xem thêm",
-								"url": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/master/depictions/me.cowvn.console/screenshots/1.jpg?size=640",
-								"fullSizeURL": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/master/depictions/me.cowvn.console/screenshots/1.jpg"
+								"url": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/master/depictions/com.matchstic.xenhtml/screenshots/1.jpg?size=640",
+								"fullSizeURL": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/master/depictions/com.matchstic.xenhtml/screenshots/1.jpg"
 							}
 						],
 						"class": "DepictionScreenshotView"
@@ -32,7 +32,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Giới thiệu\nConsole là một gói tài nguyên bổ sung cho Xen HTML."
+					"markdown": "## Giới thiệu\nXen HTML giúp bạn tuỳ chỉnh các widget linh hoạt."
 				},
 				{
 					"class": "DepictionSeparatorView"
