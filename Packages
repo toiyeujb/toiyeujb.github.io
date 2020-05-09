@@ -30,8 +30,7 @@ Author: Matchstic
 SileoDepiction: https://toiyeujb.github.io/sileodepictions/com.matchstic.xenhtml/depiction.json
 Depiction: https://toiyeujb.github.io/depictions/?p=com.matchstic.xenhtml.deb
 
-
-Package: me.cowvn.xeninfo
+Package: kr.xsf1re.flyjb
 Version: 2.2.8
 Section: System
 Maintainer: toiyeujb.github.io
@@ -46,3 +45,19 @@ Name: XenInfo
 Author: Matchstic
 SileoDepiction: https://toiyeujb.github.io/sileodepictions/com.matchstic.xenhtml/depiction.json
 Depiction: https://toiyeujb.github.io/depictions/?p=com.matchstic.xenhtml.deb
+
+Package: kr.xsf1re.flyjb
+Version: 0.2.4~beta16
+Section: Tweaks
+Maintainer: toiyeujb.github.io
+Architecture: iphoneos-arm
+Filename: ./debs/kr.xsf1re.flyjb.deb
+Size: 484238
+MD5sum: ab836dbed68cd0e8e9bd7545ca95dca7
+SHA1: 86dd0d503e84ac6fb99c545925d7b596ef7af6f6
+SHA256: 5b81f4c00a57cab09eba583e1fdd5871a7d7253c6d2fe28d93bb3043bc4c8c71
+Description: Chống phát hiện jailbreak cho điện thoại của bạn.
+Name: FlyJB
+Author: XsF1re
+SileoDepiction: https://toiyeujb.github.io/sileodepictions/kr.xsf1re.flyjb/depiction.json
+Depiction: https://toiyeujb.github.io/depictions/?p=kr.xsf1re.flyjb.deb
