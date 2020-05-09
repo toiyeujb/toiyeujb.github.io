@@ -1,5 +1,5 @@
 <package>
-	<id>me.cowvn.console</id>
+	<id>com.matchstic.xenhtml</id>
 	<name>Console (Widget)</name>
 	<version>1.0</version>
 	<compatibility>
@@ -13,7 +13,7 @@
 	<screenshots>
 		<screenshot>
 			<description>Xem trước</description>
-			<image src="https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/master/depictions/me.cowvn.console/screenshots/1.jpg"></image>
+			<image>https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/master/depictions/me.cowvn.console/screenshots/1.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>

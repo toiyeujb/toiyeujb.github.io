@@ -11,7 +11,7 @@
 					"itemSize": "{320, 275.41333333333336}",
 					"screenshots": [
 						{
-							"accessibilityText": "Showcase",
+							"accessibilityText": "Xem thêm",
 							"url": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/master/depictions/me.cowvn.console/screenshots/1.jpg",
 							"fullSizeURL": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/master/depictions/me.cowvn.console/screenshots/1.jpg"
 						}
@@ -21,7 +21,7 @@
 						"itemSize": "{320, 550.8266666666667}",
 						"screenshots": [
 							{
-								"accessibilityText": "Showcase",
+								"accessibilityText": "Xem thêm",
 								"url": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/master/depictions/me.cowvn.console/screenshots/1.jpg?size=640",
 								"fullSizeURL": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/master/depictions/me.cowvn.console/screenshots/1.jpg"
 							}
@@ -32,7 +32,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Console\nConsole là một gói tài nguyên bổ sung cho Xen HTML."
+					"markdown": "## Giới thiệu\nConsole là một gói tài nguyên bổ sung cho Xen HTML."
 				},
 				{
 					"class": "DepictionSeparatorView"
