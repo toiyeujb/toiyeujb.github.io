@@ -28,7 +28,7 @@ Description: Tuỳ chỉnh giao diện của bạn dể dàng với các gói t�
 Name: Xen HTML
 Author: Matchstic
 SileoDepiction: https://toiyeujb.github.io/sileodepictions/com.matchstic.xenhtml/depiction.json
-Depiction: https://toiyeujb.github.io/depictions/?p=com.matchstic.xenhtml.deb
+Depiction: https://toiyeujb.github.io/depictions/?p=com.matchstic.xenhtml
 
 Package: me.cowvn.xeninfo
 Version: 2.2.8
@@ -44,7 +44,7 @@ Description: Cung cấp cho Xen HTML các dữ liệu như Pin, Thời tiết, n
 Name: XenInfo
 Author: Matchstic
 SileoDepiction: https://toiyeujb.github.io/sileodepictions/com.matchstic.xeninfo/depiction.json
-Depiction: https://toiyeujb.github.io/depictions/?p=com.matchstic.xeninfo.deb
+Depiction: https://toiyeujb.github.io/depictions/?p=com.matchstic.xeninfo
 
 Package: kr.xsf1re.flyjb
 Version: 0.2.4~beta16
@@ -60,4 +60,4 @@ Description: Chống phát hiện jailbreak cho điện thoại của bạn.
 Name: FlyJB
 Author: XsF1re
 SileoDepiction: https://toiyeujb.github.io/sileodepictions/kr.xsf1re.flyjb/depiction.json
-Depiction: https://toiyeujb.github.io/depictions/?p=kr.xsf1re.flyjb.deb
+Depiction: https://toiyeujb.github.io/depictions/?p=kr.xsf1re.flyjb
