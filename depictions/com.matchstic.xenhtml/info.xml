@@ -6,10 +6,16 @@
 	</compatibility>
 	<dependencies>
 	</dependencies>
-	<shortDescription> Tuỳ chỉnh giao diện của bạn.</shortDescription>
+	<shortDescription>Xen HTML cho phép bạn tuỳ chỉnh các widget linh hoạt hơn. </shortDescription>
 	<descriptionlist>
-		<description> Tuỳ chỉnh giao diện của bạn.</description>
+		<description> Xen HTML cho phép bạn tuỳ chỉnh các widget linh hoạt hơn. </description>
 	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Xem trước</description>
+			<image>1.jpg</image>
+		</screenshot>		
+	</screenshots>
 	<changelog>
 		<change>Cập nhật</change>
 	</changelog>

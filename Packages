@@ -14,7 +14,7 @@ Author: Cowvn
 SileoDepiction: https://toiyeujb.github.io/sileodepictions/me.cowvn.console/depiction.json
 Depiction: https://toiyeujb.github.io/depictions/?p=me.cowvn.console
 
-Package: com.matchstic.xenhtml.deb
+Package: com.matchstic.xenhtml
 Version: 1.1.5
 Section: System
 Maintainer: toiyeujb.github.io
@@ -27,5 +27,5 @@ SHA256: 3a56ba2ecb2648209812cc3e556fe09ea40fabc11dc61569611eaf661abd1dde
 Description: Tuỳ chỉnh giao diện của bạn dể dàng với các gói tài nguyên có sẵng
 Name: Xen HTML
 Author: Matchstic
-SileoDepiction: https://toiyeujb.github.io/sileodepictions/com.matchstic.xenhtml.deb/depiction.json
+SileoDepiction: https://toiyeujb.github.io/sileodepictions/com.matchstic.xenhtml/depiction.json
 Depiction: https://toiyeujb.github.io/depictions/?p=com.matchstic.xenhtml.deb
