@@ -32,14 +32,14 @@ Depiction: https://toiyeujb.github.io/depictions/?p=com.matchstic.xenhtml
 
 Package: me.cowvn.xeninfo
 Version: 2.2.8
-Section: System
+Section: Tweaks
 Maintainer: toiyeujb.github.io
 Architecture: iphoneos-arm
 Filename: ./debs/me.cowvn.xeninfo.deb
-Size: 154568
+Size: 154628
 MD5sum: 8acea81216bab1de8a922b6f1a7a6ddc
-SHA1: 6e921b95cd9e2f29bfb95520238125c0e58ed0a2
-SHA256: ad58424cedd2b2c9c2ca0e85cccd42928385edee516d9abb1ac14988a4050736
+SHA1: 799babf62d25237c8bc36266a723cdb71a9f2b26
+SHA256: 2f6de900cb001ae270aa5dc29838fe08309dab0ed24912c609bca326f9c25f75
 Description: Cung cấp cho Xen HTML các dữ liệu như Pin, Thời tiết, nhạc,...
 Name: XenInfo
 Author: Matchstic
