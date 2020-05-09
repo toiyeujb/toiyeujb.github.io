@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/gh-pages/assets/Banners/toiyeujb.png",
+	"headerImage": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/master/assets/Banners/banner.png",
 	"tintColor": "#3f4042",
 	"tabs": [
 		{
@@ -48,7 +48,7 @@
 				},
 				{
 					"title": "Cập nhật lần cuối",
-					"text": "5/8/2020",
+					"text": "8/5/2020",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -81,18 +81,18 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "0.2-2",
+					"title": "1.0",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Adds 35+ new icons.",
+					"markdown": "\t\n\u2022 Việt hoá và chỉnh sửa.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 4/30/19</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 8/5/2020</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
