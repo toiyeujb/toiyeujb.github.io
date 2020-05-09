@@ -42,11 +42,6 @@
 					"class": "DepictionHeaderView"
 				},
 				{
-					"title": "Phiên bản",
-					"text": "1.0",
-					"class": "DepictionTableTextView"
-				},
-				{
 					"title": "Cập nhật lần cuối",
 					"text": "8/5/2020",
 					"class": "DepictionTableTextView"
