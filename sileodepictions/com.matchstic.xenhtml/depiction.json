@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/gh-pages/assets/Banners/toiyeujb.png",
+	"headerImage": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/master/assets/Banners/banner.png",
 	"tintColor": "#3f4042",
 	"tabs": [
 		{
@@ -11,9 +11,9 @@
 					"itemSize": "{320, 275.41333333333336}",
 					"screenshots": [
 						{
-							"accessibilityText": "Showcase",
-							"url": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/gh-pages/assets/gh-pages/depictions/me.cowvn.console/screenshots/1.png",
-							"fullSizeURL": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/gh-pages/assets/gh-pages/depictions/me.cowvn.console/screenshots/1.png"
+							"accessibilityText": "Xem thêm",
+							"url": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/master/depictions/me.cowvn.console/screenshots/1.jpg",
+							"fullSizeURL": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/master/depictions/me.cowvn.console/screenshots/1.jpg"
 						}
 					],
 					"ipad": {
@@ -21,9 +21,9 @@
 						"itemSize": "{320, 550.8266666666667}",
 						"screenshots": [
 							{
-								"accessibilityText": "Showcase",
-								"url": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/gh-pages/depictions/com.struggling.darkify/screenshots/s1.png?size=640",
-								"fullSizeURL": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/gh-pages/depictions/com.struggling.darkify/screenshots/s1.png"
+								"accessibilityText": "Xem thêm",
+								"url": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/master/depictions/me.cowvn.console/screenshots/1.jpg?size=640",
+								"fullSizeURL": "https://raw.githubusercontent.com/toiyeujb/toiyeujb.github.io/master/depictions/me.cowvn.console/screenshots/1.jpg"
 							}
 						],
 						"class": "DepictionScreenshotView"
@@ -32,7 +32,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## Console\nConsole là một gói tài nguyên bổ sung cho Xen HTML."
+					"markdown": "## Giới thiệu\nConsole là một gói tài nguyên bổ sung cho Xen HTML."
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -48,7 +48,7 @@
 				},
 				{
 					"title": "Cập nhật lần cuối",
-					"text": "5/8/2020",
+					"text": "8/5/2020",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -81,18 +81,18 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "0.2-2",
+					"title": "1.0",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Adds 35+ new icons.",
+					"markdown": "\t\n\u2022 Việt hoá và chỉnh sửa.",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 4/30/19</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 8/5/2020</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
